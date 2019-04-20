@@ -1,4 +1,4 @@
---- 
+---
 title: "A Minimal Book Example"
 author: "Yihui Xie"
 date: "`r Sys.Date()`"
@@ -10,6 +10,7 @@ link-citations: yes
 bibliography:
 - book.bib
 - packages.bib
+- cooking.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
