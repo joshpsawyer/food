@@ -2,10 +2,9 @@
 title: "A Minimal Book Example"
 author: "Yihui Xie"
 date: "`r Sys.Date()`"
-output: pdf_document
+always_allow_html: yes
 description: This is a minimal example of using the bookdown package to write a book.
   The output format for this example is bookdown::gitbook.
-documentclass: book
 link-citations: yes
 bibliography:
 - book.bib
@@ -14,6 +13,13 @@ bibliography:
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
+
+```{r}
+library(here)
+library(readxl)
+library(kableExtra)
+library(readr)
+```
 
 # Prerequisites
 
