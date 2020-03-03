@@ -1,6 +1,7 @@
 # Food & Festivals
 
 ## Food Technique
+
 - [Technical](technical.md)
 
 ## Food Recipes
@@ -8,7 +9,7 @@
 - [Grains](grains.md)
 - [Protein](protein.md)
 - [Snacks](snacks.md)
-- [Pastry](pastry.md)
+- [Pastry](pastry/index.md)
 - [Salads](salads.md)
 - [Basics & Staples](basics.md)
 
